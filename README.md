@@ -18,3 +18,7 @@ Screenshots from Tableau Dashboard:
 <img width="1437" alt="Screen Shot 2022-12-03 at 1 47 32 PM" src="https://user-images.githubusercontent.com/114832299/205457057-7c74eb28-7893-4c7b-bd2f-4fc6f720c420.png">
 
 <img width="1440" alt="Screen Shot 2022-12-03 at 1 47 44 PM" src="https://user-images.githubusercontent.com/114832299/205457050-5f0987e8-8004-4aa2-92a2-772132d7b9c2.png">
+
+Link to the tableau dashboard:
+
+https://public.tableau.com/app/profile/ekta7441/viz/TheGenerationalBusinessView/OverallDashboard?publish=yes
