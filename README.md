@@ -10,3 +10,11 @@ A few of many questions that we would like to answer from our analysis would be:
 ER Diagram:
 
 ![ER Diagram - GenZVvMilennials](https://user-images.githubusercontent.com/114832299/205456777-c53b1f20-c076-4c61-99d3-c980b5c58618.jpeg)
+
+Screenshots from Tableau Dashboard:
+
+<img width="1438" alt="Screen Shot 2022-12-03 at 1 47 17 PM" src="https://user-images.githubusercontent.com/114832299/205457036-e5828609-f484-4f4d-8cd4-68ffd6a0914b.png">
+
+<img width="1437" alt="Screen Shot 2022-12-03 at 1 47 32 PM" src="https://user-images.githubusercontent.com/114832299/205457057-7c74eb28-7893-4c7b-bd2f-4fc6f720c420.png">
+
+<img width="1440" alt="Screen Shot 2022-12-03 at 1 47 44 PM" src="https://user-images.githubusercontent.com/114832299/205457050-5f0987e8-8004-4aa2-92a2-772132d7b9c2.png">
