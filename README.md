@@ -6,3 +6,7 @@ A few of many questions that we would like to answer from our analysis would be:
 4. What is their preferred mode of shopping? (Physical Store, Online Store)
 5. Do they refer to reviews before making the purchase?
 6. Do they spend more on? (Comfort, Luxury)
+
+ER Diagram:
+
+![ER Diagram - GenZVvMilennials](https://user-images.githubusercontent.com/114832299/205456777-c53b1f20-c076-4c61-99d3-c980b5c58618.jpeg)
